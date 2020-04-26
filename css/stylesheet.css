@@ -1,0 +1,80 @@
+html {
+  height: 100%
+}
+
+body{
+  color: #424242;
+  margin: 50px 0 100px 0;
+}
+
+.container {
+  width: 550px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Oswald;
+  font-size: 30px;
+  color: #e91d63;
+  margin: 35px 0 10px 0;
+}
+
+h2 {
+  font-family: Oswald;
+  font-size: 18px;
+}
+
+h3 {
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+.red {
+  font-family: Oswald;
+  font-size: 15px;
+  color: #e91d63;
+  letter-spacing: 0.1em;
+}
+
+.black {
+  font-family: Source Code Pro;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+p {
+  font-family: Source Code Pro;
+  font-size: 12px
+}
+
+
+
+.adresse {
+  font-family: Roboto Condensed;
+  font-size: 12px;
+  color: #999999;
+  margin: 0;
+}
+
+.kontakt {
+  font-family: Roboto Condensed;
+  font-size: 12px;
+  color: #e91d63;
+  margin: 0;
+}
+
+.title {
+  margin: 35px 0 0 0;
+}
+
+.standard {
+  color: #666666;
+  margin: 7px 0 7px 0;
+}
+
+.list {
+  padding: 0 30px;
+  color: #666666;
+  margin: 7px 0 7px 0;
+}
