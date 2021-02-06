@@ -13,54 +13,54 @@ body{
 }
 
 h1 {
-  font-family: Oswald;
-  font-size: 30px;
-  color: #e91d63;
+  font-family: arial;
+  font-size: 24px;
   margin: 35px 0 10px 0;
 }
 
 h2 {
-  font-family: Oswald;
-  font-size: 18px;
+  font-family: arial;
+  font-size: 11px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h3 {
-  margin-top: 35px;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-family: arial;
+  font-size: 10px;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 
 .red {
-  font-family: Oswald;
-  font-size: 15px;
+  font-family: arial;
+  font-size: 10px;
+  font-weight: bold;
   color: #e91d63;
-  letter-spacing: 0.1em;
 }
 
 .black {
-  font-family: Source Code Pro;
-  font-style: italic;
-  font-size: 15px;
-  font-weight: lighter;
+  font-family: Arial;
+  font-size: 10px;
 }
 
 p {
-  font-family: Source Code Pro;
-  font-size: 12px
+  font-family: arial;
+  font-size: 10px
 }
 
 
 
-.adresse {
-  font-family: Roboto Condensed;
-  font-size: 12px;
-  color: #999999;
-  margin: 0;
-}
-
-.kontakt {
-  font-family: Roboto Condensed;
-  font-size: 12px;
-  color: #e91d63;
+.header {
+  font-family: Arial;
+  font-size: 9px;
+  color: black;
   margin: 0;
 }
 
@@ -76,5 +76,5 @@ p {
 .list {
   padding: 0 30px;
   color: #666666;
-  margin: 7px 0 7px 0;
+  margin: 7px 0 15px 0;
 }
